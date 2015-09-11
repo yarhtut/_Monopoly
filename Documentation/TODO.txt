@@ -1,0 +1,38 @@
+﻿Finish Nunit Tests
+Conduct unit tests on all classes in monopoly game using nUnit framework and produce average of 75% code coverage for overall application. 
+
+Implement more functionality:
+Mortgage properties
+Properties can also be mortgaged. The player receives money from the bank for each mortgaged property (half of the purchase price), which must be repaid with 10% interest to unmortgage. 
+Houses and hotels can be sold back to the bank for half their purchase price. 
+Players cannot collect rent on mortgaged properties and may not give improved property away to others; however, trading mortgaged properties is allowed.
+The player receiving the mortgaged property must immediately unmortgage it for the mortgage price plus 10%, or pay the bank just the 10% amount and keep the property mortgaged; if the player 
+chooses the latter, they must still pay the 10% again if the property is later unmortgaged.
+
+Hotels 
+When a player owns all of the properties in a color group and none of them are mortgaged, they may develop them during their turn or in between other player's turns. 
+Development involves buying miniature houses or hotels from the bank and placing them on the property spaces, and must be done uniformly across the group. 
+That is, a second house cannot be built on any property within a group until all of them have one house. Once the player owns an entire group, they can collect double rent for 
+any undeveloped properties within it. Although houses and hotels cannot be built on railroads or utilities, the given rent also increases if a player owns more than one of either type.
+ If there is more demand for houses to be built than what remains in the bank, then a housing auction is conducted to determine who will get to purchase each house.
+
+Cards
+A deck of 32 Chance and Community Chest cards (16 Chance and 16 Community Chest) which players draw when they land on the corresponding squares of the track, and follow the instructions printed on them. 
+
+Jail
+A player will land in jail if they land on *"Go to Jail", *throw three straight doubles in a turn, or *draw a Community Chest or Chance Card saying "Go to Jail". 
+When a player is sent to jail they move there directly ("Do not pass Go. Do not collect $200.") and their turn ends. 
+
+If the player is not "sent" to jail but just lands on that space, they are "Just Visiting", incur no penalty and move in the usual manner on their next turn. 
+If a player is in jail, they do not take a normal turn and must either pay a fine of $50 to be released from jail, use a Chance or 
+Community Chest Get Out of Jail Free card, or attempt to roll doubles on the dice. If a player fails to roll doubles, they lose their turn. 
+Failure to roll doubles thrice will result in paying the $50 fine (or use a Get out of Jail Free card) to be released. 
+While a player is in jail, they may not buy property directly, by virtue of not being able to land on the properties. 
+However, they may sell, trade and mortgage properties, purchase buildings, participate in auctions, and collect rents. 
+If a player does roll doubles to exit Jail, they may immediately move according to the roll, but they cannot roll a second time after exiting jail. 
+If the player instead pays the $50 fine or uses a Get out of Jail Free card and then rolls doubles, they are required to move the amount shown on the dice and then roll again.
+
+Loading from Text file 
+Load the attribute values for the properties and starting values for the game from a text file at startup to allow localization and customization of the game.
+
+Allow save and restore for a game in progress. Provide an option to save a game (txt or xml file) and loading a game from file that has already been saved.  

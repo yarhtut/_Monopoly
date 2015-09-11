@@ -1,0 +1,19 @@
+D:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\MolopolyGameTests\obj\Debug\MolopolyGameTests.csprojResolveAssemblyReference.cache
+C:\Users\luke\Dropbox\tablet share\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\MolopolyGameTests\obj\Debug\MolopolyGameTests.csprojResolveAssemblyReference.cache
+C:\Users\luke\Dropbox\tablet share\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\MolopolyGameTests\bin\Debug\MolopolyGameTests.dll
+C:\Users\luke\Dropbox\tablet share\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\MolopolyGameTests\bin\Debug\MolopolyGameTests.pdb
+C:\Users\luke\Dropbox\tablet share\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\MolopolyGameTests\bin\Debug\MolopolyGame.exe
+C:\Users\luke\Dropbox\tablet share\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\MolopolyGameTests\bin\Debug\nunit.framework.dll
+C:\Users\luke\Dropbox\tablet share\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\MolopolyGameTests\bin\Debug\MolopolyGame.pdb
+C:\Users\luke\Dropbox\tablet share\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\MolopolyGameTests\bin\Debug\nunit.framework.xml
+C:\Users\luke\Dropbox\tablet share\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\MolopolyGameTests\obj\Debug\MolopolyGameTests.dll
+C:\Users\luke\Dropbox\tablet share\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\MolopolyGameTests\obj\Debug\MolopolyGameTests.pdb
+F:\C#_7302\_Monopoly\MolopolyGameTests\bin\Debug\MolopolyGameTests.dll
+F:\C#_7302\_Monopoly\MolopolyGameTests\bin\Debug\MolopolyGameTests.pdb
+F:\C#_7302\_Monopoly\MolopolyGameTests\bin\Debug\MolopolyGame.exe
+F:\C#_7302\_Monopoly\MolopolyGameTests\bin\Debug\nunit.framework.dll
+F:\C#_7302\_Monopoly\MolopolyGameTests\bin\Debug\MolopolyGame.pdb
+F:\C#_7302\_Monopoly\MolopolyGameTests\bin\Debug\nunit.framework.xml
+F:\C#_7302\_Monopoly\MolopolyGameTests\obj\Debug\MolopolyGameTests.csprojResolveAssemblyReference.cache
+F:\C#_7302\_Monopoly\MolopolyGameTests\obj\Debug\MolopolyGameTests.dll
+F:\C#_7302\_Monopoly\MolopolyGameTests\obj\Debug\MolopolyGameTests.pdb

@@ -1,0 +1,182 @@
+F:\IT302\2010\Assessments\Monopoly-IT302-Assign3\Monopoly-IT302-Assign3\MolopolyGame\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\IT302\2010\Assessments\Monopoly-IT302-Assign3\Monopoly-IT302-Assign3\MolopolyGame\bin\Debug\MolopolyGame.exe
+F:\IT302\2010\Assessments\Monopoly-IT302-Assign3\Monopoly-IT302-Assign3\MolopolyGame\bin\Debug\MolopolyGame.pdb
+F:\IT302\2010\Assessments\Monopoly-IT302-Assign3\Monopoly-IT302-Assign3\MolopolyGame\bin\Debug\nunit.framework.dll
+F:\IT302\2010\Assessments\Monopoly-IT302-Assign3\Monopoly-IT302-Assign3\MolopolyGame\bin\Debug\nunit.framework.xml
+F:\IT302\2010\Assessments\Monopoly-IT302-Assign3\Monopoly-IT302-Assign3\MolopolyGame\obj\x86\Debug\MolopolyGame.exe
+F:\IT302\2010\Assessments\Monopoly-IT302-Assign3\Monopoly-IT302-Assign3\MolopolyGame\obj\x86\Debug\MolopolyGame.pdb
+C:\Users\Login\Desktop\Monopoly-IT302-Assign3\Monopoly-IT302-Assign3\MolopolyGame\obj\x86\Debug\MolopolyGame.exe
+C:\Users\Login\Desktop\Monopoly-IT302-Assign3\Monopoly-IT302-Assign3\MolopolyGame\obj\x86\Debug\MolopolyGame.pdb
+C:\Users\Login\Desktop\Monopoly-IT302-Assign3\Monopoly-IT302-Assign3\MolopolyGame\bin\Debug\MolopolyGame.exe
+C:\Users\Login\Desktop\Monopoly-IT302-Assign3\Monopoly-IT302-Assign3\MolopolyGame\bin\Debug\MolopolyGame.pdb
+C:\Users\Login\Desktop\Monopoly-IT302-Assign3\Monopoly-IT302-Assign3\MolopolyGame\bin\Debug\nunit.framework.dll
+C:\Users\Login\Desktop\Monopoly-IT302-Assign3\Monopoly-IT302-Assign3\MolopolyGame\bin\Debug\nunit.framework.xml
+C:\Users\Login\Desktop\Monopoly-IT302-Assign3\Monopoly-IT302-Assign3\MolopolyGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Login\Desktop\MolopolyGame\obj\x86\Debug\MolopolyGame.exe
+C:\Users\Login\Desktop\MolopolyGame\obj\x86\Debug\MolopolyGame.pdb
+F:\IT302\2010\Assessments\MolopolyGame\obj\x86\Debug\MolopolyGame.exe
+F:\IT302\2010\Assessments\MolopolyGame\obj\x86\Debug\MolopolyGame.pdb
+F:\IT302\2010\Assessments\MolopolyGame\bin\Debug\MolopolyGame.exe
+F:\IT302\2010\Assessments\MolopolyGame\bin\Debug\MolopolyGame.pdb
+F:\IT302\2010\Assessments\MolopolyGame\bin\Debug\nunit.framework.dll
+F:\IT302\2010\Assessments\MolopolyGame\bin\Debug\nunit.framework.xml
+F:\IT302\2010\Assessments\MolopolyGame\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_IT7302\2010\Assessments\MolopolyGame\obj\x86\Debug\MolopolyGame.exe
+F:\_IT7302\2010\Assessments\MolopolyGame\obj\x86\Debug\MolopolyGame.pdb
+G:\_IT7302\2010\Assessments\MolopolyGame\obj\x86\Debug\MolopolyGame.exe
+G:\_IT7302\2010\Assessments\MolopolyGame\obj\x86\Debug\MolopolyGame.pdb
+G:\_IT7302\Assessments\Monopoly_Game\obj\x86\Debug\MolopolyGame.exe
+G:\_IT7302\Assessments\Monopoly_Game\obj\x86\Debug\MolopolyGame.pdb
+G:\_IT7302\Assessments\Monopoly_Game\bin\Debug\MolopolyGame.exe
+G:\_IT7302\Assessments\Monopoly_Game\bin\Debug\MolopolyGame.pdb
+G:\_IT7302\Assessments\Monopoly_Game\bin\Debug\nunit.framework.xml
+G:\_IT7302\Assessments\Monopoly_Game\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_IT7302 - C#\Assessments\Monopoly_Game\obj\x86\Debug\MolopolyGame.exe
+F:\_IT7302 - C#\Assessments\Monopoly_Game\obj\x86\Debug\MolopolyGame.pdb
+F:\_IT7302 - C#\Assessments\Monopoly_Game\bin\Debug\MolopolyGame.exe
+F:\_IT7302 - C#\Assessments\Monopoly_Game\bin\Debug\MolopolyGame.pdb
+F:\_IT7302 - C#\Assessments\Monopoly_Game\bin\Debug\nunit.framework.xml
+F:\_IT7302 - C#\Assessments\Monopoly_Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Data\_IT7302 - C#\2012\Assessments\Monopoly_Game\obj\x86\Debug\MolopolyGame.exe
+C:\Data\_IT7302 - C#\2012\Assessments\Monopoly_Game\obj\x86\Debug\MolopolyGame.pdb
+C:\Data\_IT7302 - C#\2012\Assessments\Monopoly_Game\bin\Debug\MolopolyGame.exe
+C:\Data\_IT7302 - C#\2012\Assessments\Monopoly_Game\bin\Debug\MolopolyGame.pdb
+C:\Data\_IT7302 - C#\2012\Assessments\Monopoly_Game\bin\Debug\nunit.framework.xml
+C:\Data\_IT7302 - C#\2012\Assessments\Monopoly_Game\obj\x86\Debug\MolopolyGame.csprojResolveAssemblyReference.cache
+C:\Data\_IT7302 - C#\_2013\Assessments\Monopoly Project\Monopoly\obj\x86\Debug\MolopolyGame.exe
+C:\Data\_IT7302 - C#\_2013\Assessments\Monopoly Project\Monopoly\obj\x86\Debug\MolopolyGame.pdb
+C:\Data\_IT7302 - C#\_2013\Assessments\Monopoly Project\Monopoly\obj\x86\Debug\MolopolyGame.csprojResolveAssemblyReference.cache
+C:\Data\_IT7302 - C#\_2013\Assessments\Monopoly Project\Monopoly\bin\Debug\MolopolyGame.exe
+C:\Data\_IT7302 - C#\_2013\Assessments\Monopoly Project\Monopoly\bin\Debug\MolopolyGame.pdb
+C:\Data\_IT7302 - C#\_2013\Assessments\Monopoly Project\Monopoly\bin\Debug\nunit.framework.xml
+C:\Data\_IT7302 - C#\_2013\Assessments\Monopoly Project\Assignment 2 - Monopoly Project\obj\x86\Debug\MolopolyGame.exe
+C:\Data\_IT7302 - C#\_2013\Assessments\Monopoly Project\Assignment 2 - Monopoly Project\obj\x86\Debug\MolopolyGame.pdb
+C:\Users\asston\Desktop\Monopoly Project\obj\x86\Debug\MolopolyGame.exe
+C:\Users\asston\Desktop\Monopoly Project\obj\x86\Debug\MolopolyGame.pdb
+C:\Users\asston\Desktop\Monopoly Project\bin\Debug\MolopolyGame.exe
+C:\Users\asston\Desktop\Monopoly Project\bin\Debug\MolopolyGame.pdb
+C:\Users\asston\Desktop\Monopoly Project\bin\Debug\nunit.framework.xml
+C:\Users\asston\Desktop\Monopoly Project\obj\x86\Debug\MolopolyGame.csprojResolveAssemblyReference.cache
+E:\_IT7302 - C#\_2014\Assessments\Monopoly Project\obj\x86\Debug\MolopolyGame.exe
+E:\_IT7302 - C#\_2014\Assessments\Monopoly Project\obj\x86\Debug\MolopolyGame.pdb
+E:\_IT7302 - C#\_2014\Assessments\Monopoly Project\bin\Debug\MolopolyGame.exe
+E:\_IT7302 - C#\_2014\Assessments\Monopoly Project\bin\Debug\MolopolyGame.pdb
+E:\_IT7302 - C#\_2014\Assessments\Monopoly Project\bin\Debug\nunit.framework.xml
+E:\_IT7302 - C#\_2014\Assessments\Monopoly Project\obj\x86\Debug\MolopolyGame.csprojResolveAssemblyReference.cache
+C:\Users\9901623\Downloads\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\obj\x86\Debug\MolopolyGame.exe
+C:\Users\9901623\Downloads\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\obj\x86\Debug\MolopolyGame.pdb
+C:\Users\9901623\Downloads\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\bin\Debug\MolopolyGame.exe
+C:\Users\9901623\Downloads\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\bin\Debug\MolopolyGame.pdb
+C:\Users\9901623\Downloads\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\bin\Debug\nunit.framework.xml
+C:\Users\9901623\Downloads\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\obj\x86\Debug\MolopolyGame.csprojResolveAssemblyReference.cache
+D:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\obj\x86\Debug\MolopolyGame.exe
+D:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\obj\x86\Debug\MolopolyGame.pdb
+D:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\bin\Debug\MolopolyGame.exe
+D:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\bin\Debug\MolopolyGame.pdb
+D:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\bin\Debug\nunit.framework.xml
+D:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\bin\Debug\nunit.framework.dll
+D:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\bin\Debug\nunit.core.dll
+D:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\bin\Debug\nunit.core.interfaces.dll
+D:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\bin\Debug\nunit.util.dll
+D:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+E:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\obj\x86\Debug\MolopolyGame.exe
+E:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\obj\x86\Debug\MolopolyGame.pdb
+E:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\bin\Debug\MolopolyGame.exe
+E:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\bin\Debug\MolopolyGame.pdb
+E:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\bin\Debug\nunit.core.dll
+E:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\bin\Debug\nunit.core.interfaces.dll
+E:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\bin\Debug\nunit.framework.dll
+E:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\bin\Debug\nunit.util.dll
+E:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+E:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\bin\Debug\nunit.framework.xml
+E:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\obj\x86\Debug\MolopolyGame.csprojResolveAssemblyReference.cache
+C:\Users\luke\Dropbox\tablet share\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\obj\x86\Debug\MolopolyGame.exe
+C:\Users\luke\Dropbox\tablet share\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\obj\x86\Debug\MolopolyGame.pdb
+C:\Users\luke\Dropbox\tablet share\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\bin\Debug\MolopolyGame.exe
+C:\Users\luke\Dropbox\tablet share\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\bin\Debug\MolopolyGame.pdb
+C:\Users\luke\Dropbox\tablet share\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\bin\Debug\nunit.core.dll
+C:\Users\luke\Dropbox\tablet share\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\bin\Debug\nunit.core.interfaces.dll
+C:\Users\luke\Dropbox\tablet share\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\bin\Debug\nunit.framework.dll
+C:\Users\luke\Dropbox\tablet share\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\bin\Debug\nunit.util.dll
+C:\Users\luke\Dropbox\tablet share\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+C:\Users\luke\Dropbox\tablet share\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\bin\Debug\nunit.framework.xml
+C:\Users\luke\Dropbox\tablet share\IT7302_Assignment_3_Monopoly Project (Iteration 1, Completed)\obj\x86\Debug\MolopolyGame.csprojResolveAssemblyReference.cache
+C:\Users\9901623\Downloads\IT7302_Assignment_3_Monopoly Project\obj\x86\Debug\MolopolyGame.exe
+C:\Users\9901623\Downloads\IT7302_Assignment_3_Monopoly Project\obj\x86\Debug\MolopolyGame.pdb
+C:\Users\9901623\Downloads\IT7302_Assignment_3_Monopoly Project\bin\Debug\MolopolyGame.exe
+C:\Users\9901623\Downloads\IT7302_Assignment_3_Monopoly Project\bin\Debug\MolopolyGame.pdb
+C:\Users\9901623\Downloads\IT7302_Assignment_3_Monopoly Project\bin\Debug\nunit.core.dll
+C:\Users\9901623\Downloads\IT7302_Assignment_3_Monopoly Project\bin\Debug\nunit.core.interfaces.dll
+C:\Users\9901623\Downloads\IT7302_Assignment_3_Monopoly Project\bin\Debug\nunit.framework.dll
+C:\Users\9901623\Downloads\IT7302_Assignment_3_Monopoly Project\bin\Debug\nunit.util.dll
+C:\Users\9901623\Downloads\IT7302_Assignment_3_Monopoly Project\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+C:\Users\9901623\Downloads\IT7302_Assignment_3_Monopoly Project\bin\Debug\nunit.framework.xml
+C:\Users\9901623\Downloads\IT7302_Assignment_3_Monopoly Project\obj\x86\Debug\MolopolyGame.csprojResolveAssemblyReference.cache
+C:\Users\luke\Documents\IT7302_Assignment_3_Monopoly Project\obj\x86\Debug\MolopolyGame.exe
+C:\Users\luke\Documents\IT7302_Assignment_3_Monopoly Project\obj\x86\Debug\MolopolyGame.pdb
+C:\Users\luke\Documents\IT7302_Assignment_3_Monopoly Project\bin\Debug\MolopolyGame.exe
+C:\Users\luke\Documents\IT7302_Assignment_3_Monopoly Project\bin\Debug\MolopolyGame.pdb
+C:\Users\luke\Documents\IT7302_Assignment_3_Monopoly Project\bin\Debug\nunit.core.dll
+C:\Users\luke\Documents\IT7302_Assignment_3_Monopoly Project\bin\Debug\nunit.core.interfaces.dll
+C:\Users\luke\Documents\IT7302_Assignment_3_Monopoly Project\bin\Debug\nunit.framework.dll
+C:\Users\luke\Documents\IT7302_Assignment_3_Monopoly Project\bin\Debug\nunit.util.dll
+C:\Users\luke\Documents\IT7302_Assignment_3_Monopoly Project\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+C:\Users\luke\Documents\IT7302_Assignment_3_Monopoly Project\bin\Debug\nunit.framework.xml
+C:\Users\luke\Documents\IT7302_Assignment_3_Monopoly Project\obj\x86\Debug\MolopolyGame.csprojResolveAssemblyReference.cache
+C:\Users\Luke Hardiman\Dropbox\tablet share\IT7302_Assignment_3_Monopoly Project\obj\x86\Debug\MolopolyGame.exe
+C:\Users\Luke Hardiman\Dropbox\tablet share\IT7302_Assignment_3_Monopoly Project\obj\x86\Debug\MolopolyGame.pdb
+C:\Users\Luke Hardiman\Dropbox\tablet share\IT7302_Assignment_3_Monopoly Project\bin\Debug\MolopolyGame.exe
+C:\Users\Luke Hardiman\Dropbox\tablet share\IT7302_Assignment_3_Monopoly Project\bin\Debug\MolopolyGame.pdb
+C:\Users\Luke Hardiman\Dropbox\tablet share\IT7302_Assignment_3_Monopoly Project\bin\Debug\nunit.core.dll
+C:\Users\Luke Hardiman\Dropbox\tablet share\IT7302_Assignment_3_Monopoly Project\bin\Debug\nunit.core.interfaces.dll
+C:\Users\Luke Hardiman\Dropbox\tablet share\IT7302_Assignment_3_Monopoly Project\bin\Debug\nunit.framework.dll
+C:\Users\Luke Hardiman\Dropbox\tablet share\IT7302_Assignment_3_Monopoly Project\bin\Debug\nunit.util.dll
+C:\Users\Luke Hardiman\Dropbox\tablet share\IT7302_Assignment_3_Monopoly Project\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+C:\Users\Luke Hardiman\Dropbox\tablet share\IT7302_Assignment_3_Monopoly Project\bin\Debug\nunit.framework.xml
+C:\Users\Luke Hardiman\Dropbox\tablet share\IT7302_Assignment_3_Monopoly Project\obj\x86\Debug\MolopolyGame.csprojResolveAssemblyReference.cache
+F:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project\obj\x86\Debug\MolopolyGame.exe
+F:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project\obj\x86\Debug\MolopolyGame.pdb
+F:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project\obj\x86\Debug\MolopolyGame.csprojResolveAssemblyReference.cache
+F:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project\bin\Debug\MolopolyGame.exe
+F:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project\bin\Debug\MolopolyGame.pdb
+F:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project\bin\Debug\nunit.core.dll
+F:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project\bin\Debug\nunit.core.interfaces.dll
+F:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project\bin\Debug\nunit.framework.dll
+F:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project\bin\Debug\nunit.util.dll
+F:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+F:\papers\IT7302 - Software\IT7302_Assignment_3_Monopoly Project\bin\Debug\nunit.framework.xml
+F:\C#_7302\_Monopoly\obj\x86\Debug\MolopolyGame.exe
+F:\C#_7302\_Monopoly\obj\x86\Debug\MolopolyGame.pdb
+F:\C#_7302\_Monopoly\bin\Debug\MolopolyGame.exe
+F:\C#_7302\_Monopoly\bin\Debug\MolopolyGame.pdb
+F:\C#_7302\_Monopoly\bin\Debug\nunit.core.dll
+F:\C#_7302\_Monopoly\bin\Debug\nunit.core.interfaces.dll
+F:\C#_7302\_Monopoly\bin\Debug\nunit.framework.dll
+F:\C#_7302\_Monopoly\bin\Debug\nunit.util.dll
+F:\C#_7302\_Monopoly\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+F:\C#_7302\_Monopoly\bin\Debug\nunit.framework.xml
+F:\C#_7302\_Monopoly\obj\x86\Debug\MolopolyGame.csprojResolveAssemblyReference.cache
+E:\C#_7302\_Monopoly\obj\x86\Debug\MolopolyGame.exe
+E:\C#_7302\_Monopoly\obj\x86\Debug\MolopolyGame.pdb
+E:\Yar\C#_7302\_Monopoly\obj\x86\Debug\MolopolyGame.exe
+E:\Yar\C#_7302\_Monopoly\obj\x86\Debug\MolopolyGame.pdb
+H:\Yar\C#_7302\_Monopoly\obj\x86\Debug\MolopolyGame.exe
+H:\Yar\C#_7302\_Monopoly\obj\x86\Debug\MolopolyGame.pdb
+H:\Yar\C#_7302\_Monopoly\obj\x86\Debug\MolopolyGame.csprojResolveAssemblyReference.cache
+E:\Yar\C#_7302\_Monopoly\bin\Debug\MolopolyGame.exe
+E:\Yar\C#_7302\_Monopoly\bin\Debug\MolopolyGame.pdb
+E:\Yar\C#_7302\_Monopoly\bin\Debug\nunit.core.dll
+E:\Yar\C#_7302\_Monopoly\bin\Debug\nunit.core.interfaces.dll
+E:\Yar\C#_7302\_Monopoly\bin\Debug\nunit.framework.dll
+E:\Yar\C#_7302\_Monopoly\bin\Debug\nunit.util.dll
+E:\Yar\C#_7302\_Monopoly\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+E:\Yar\C#_7302\_Monopoly\bin\Debug\nunit.framework.xml
+E:\Yar\C#_7302\_Monopoly\obj\x86\Debug\MolopolyGame.csprojResolveAssemblyReference.cache
+H:\Yar\C#_7302\_Monopoly\bin\Debug\MolopolyGame.exe
+H:\Yar\C#_7302\_Monopoly\bin\Debug\MolopolyGame.pdb
+H:\Yar\C#_7302\_Monopoly\bin\Debug\nunit.core.dll
+H:\Yar\C#_7302\_Monopoly\bin\Debug\nunit.core.interfaces.dll
+H:\Yar\C#_7302\_Monopoly\bin\Debug\nunit.framework.dll
+H:\Yar\C#_7302\_Monopoly\bin\Debug\nunit.util.dll
+H:\Yar\C#_7302\_Monopoly\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+H:\Yar\C#_7302\_Monopoly\bin\Debug\nunit.framework.xml
